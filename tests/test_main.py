@@ -6,7 +6,7 @@ Tests for ALIVE-SpectraOdyssey
 import unittest
 from main import *
 
-class TestCreativeunique(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
